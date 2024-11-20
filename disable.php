@@ -1,3 +1,5 @@
+<?php
+
 // Disable core auto-updates
 add_filter( 'auto_update_core', '__return_false' );
 // Disable auto-updates for plugins.
